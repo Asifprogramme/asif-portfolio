@@ -1,3 +1,3 @@
 # asif-portfolio
-Live preview
+Live preview:
 https://asifprogramme.github.io/asif-portfolio/
